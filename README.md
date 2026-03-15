@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi 👋, I'm Ameerullah
 
-<!--
-**ameerullahmayo/ameerullahmayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Laravel & PHP Developer  
+📍 Punjab, Pakistan  
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🌱 I’m currently learning **Laravel & Backend Development**
+- 💻 I build **CRUD Applications and Web Systems**
+- 🎯 Goal: Become a **Professional Laravel Developer**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- PHP
+- Laravel
+- MySQL
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+
+## 📂 Projects
+- Laravel CRUD Application
+- Contact Form with Database
+- REST API in Laravel
+
+## 📫 Contact
+- Email:ameerullahmayo1866@gmail.com
